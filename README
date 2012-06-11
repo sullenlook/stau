@@ -2,7 +2,7 @@ How to install this plugin:
 
 #1: Upload the "stau" folder into /plugins/ dir of SiriServerCore.
 
-#2: Add "stay" into plugins.conf
+#2: Add "stau" into plugins.conf
 
 DONE
 
